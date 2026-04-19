@@ -1,0 +1,9 @@
+{
+  "name": "brainrot-bot",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^2.6.7",
+    "dotenv": "^16.4.5"
+  }
+}
